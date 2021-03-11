@@ -1,9 +1,9 @@
 print("Soal 2")
-print("Membuat program yang mencakup tipe data string, integer, dan float")
+
+print("- Deskripsi Diri -")
 
 #memasukkan variabel biodata
 
-judul = ("- Deskripsi Diri -")
 nama = ("Narista Neri Vadila")
 namapanggilan = ("Nana")
 universitas = ("Universitas Sebelas Maret")
@@ -23,7 +23,6 @@ waktutempuh = 1
 
 #menampilkan variabel ke terminal
 
-print(judul)
 print("Nama saya", nama)
 print("Saya biasa dipanggil", namapanggilan)
 print("Saat ini, saya belajar di", universitas, "Surakarta")
@@ -40,7 +39,3 @@ print("Saat ini, saya tinggal bersama dengan orang tua saya di", tempat_tinggal)
 print("Jarak rumah saya dan kampus cukup dekat, yaitu", jarakrumahkekampus, "km")
 print("sehingga dapat dijangkau dengan mengendarai", kendaraan)
 print("kurang lebih selama", waktutempuh, "jam")
-
-
-
-

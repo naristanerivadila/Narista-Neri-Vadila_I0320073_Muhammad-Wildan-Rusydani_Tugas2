@@ -1,5 +1,4 @@
 print("Exercise 2.2")
-print("Variabel pada Python")
 
 #proses memasukkan data ke dalam variabel
 nama = "Narista Neri Vadila"

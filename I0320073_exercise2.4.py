@@ -1,5 +1,4 @@
 print("Exercise 2.4")
-print("Mengonversi suhu dari farenheit ke celcius")
 
 #menampilkan informasi program
 

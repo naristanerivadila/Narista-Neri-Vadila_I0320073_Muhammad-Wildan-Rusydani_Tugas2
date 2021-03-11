@@ -1,5 +1,4 @@
 print("Exercise 2.1")
-print("Tipe Data Python")
 
 #tipe data Boolean
 print("True")

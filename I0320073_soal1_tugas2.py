@@ -1,5 +1,4 @@
 print("Soal 1")
-print("Membuat program perhitungan luas persegi panjang, luas lingkaran, luas kubus, konversi suhu celcius ke farenheit, dan konversi suhu reamur ke kelvin")
 
 import math
 
